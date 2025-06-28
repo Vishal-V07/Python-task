@@ -20,11 +20,9 @@ responses = {
     "how old are you": "I'm timeless. I was born when you ran this program!",
     "what is python": "Python is a popular programming language known for its simplicity and readability.",
     "who made you": "I was created by someone using Python code!",
-    "i love you": "Aww, thank you! I'm just a chatbot, but I appreciate it!",
     "do you like me": "Of course! I like chatting with you.",
     "are you real": "As real as lines of code can be!"
 }
-
 def chatbot():
     print("Bot: Hi! I'm your chatbot. Type 'bye' to exit.")
     while True:
