@@ -40,6 +40,4 @@ def chatbot():
                 break
         if not response_found:
             print("Bot: I'm not sure how to respond to that.")
-
-# Run the chatbot
 chatbot()
